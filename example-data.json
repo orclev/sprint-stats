@@ -1,0 +1,36 @@
+{
+  "startingData": {
+    "marginOfError": 0.31469253,
+    "hourAccuracy": 0.8989583,
+    "pointAccuracy": 0.76209676,
+    "sprintHours": 273,
+    "manHours": 304,
+    "hoursPerPoint": 12.214286,
+    "rolledPoints": 7,
+    "sprintCount": 3
+  },
+  "sprints": [
+    {
+      "people": 4,
+      "workDays": 10,
+      "vacationDays": 1,
+      "interruptHours": 24,
+      "plannedPoints": 31,
+      "deliveredPoints": 24
+    },
+    {
+      "people": 4,
+      "workDays": 10,
+      "vacationDays": 0,
+      "interruptHours": 38,
+      "plannedPoints": 28,
+      "deliveredPoints": 21
+    }
+  ],
+  "nextSprint": {
+    "people": 4,
+    "workDays": 10,
+    "vacationDays": 0,
+    "plannedPoints": 14
+  }
+}
